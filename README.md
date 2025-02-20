@@ -42,21 +42,21 @@ Here are some ideas to get you started:
 ### 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaliinfo&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaliinfo&layout=compact&theme=dark)
 
 ---
 
 ### 🏆 **GitHub Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedaliinfo&theme=darkhub)
 
 ---
 
 ### 🔥 **Contribution Graph**
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedaliinfo&theme=dark)
 
 ---
 
 ### 📌 **Pinned Repositories**
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=dark)](https://github.com/yourusername/your-repo-name)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=mohamedaliinfo&repo=your-repo-name&theme=dark)](https://github.com/mohamedaliinfo/your-repo-name)
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-other-repo&theme=dark)](https://github.com/yourusername/your-other-repo)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=mohamedaliinfo&repo=your-other-repo&theme=dark)](https://github.com/mohamedaliinfo/your-other-repo)
